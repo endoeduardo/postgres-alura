@@ -1,6 +1,9 @@
 # POSTGRES-ALURA
 Repositório de estudos de PostgresSQL com os cursos da Alura.
 
+Base de dados utilizadas do kaggle:
+- [Netflix](https://www.kaggle.com/datasets/nayanack/netflix?resource=download)
+
 ## Instruções para rodar
 - Necessita de ter o docker instalado.
 - Executar o seguinte comando
