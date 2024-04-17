@@ -14,4 +14,6 @@ Colocar o hostname 0.0.0.0 ou localhost não vai funcionar se você estiver roda
 
 Para criar um servidor na hora de configurar as conexões é necessário colocar o hostname como o nome do serviço criado no docker-compose.yaml, nesse caso foi `postgres`.
 
+As demais variáveis, colocar as que foram setadas no `docker-compose.yaml` ou trocar no arquivo para variáveis de sua preferência.
+
 ![Como configurar o hostname/address](/readme_images/register_server_screenshot.png)
