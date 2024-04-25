@@ -20,3 +20,6 @@ Para criar um servidor na hora de configurar as conexões é necessário colocar
 As demais variáveis, colocar as que foram setadas no `docker-compose.yaml` ou trocar no arquivo para variáveis de sua preferência.
 
 ![Como configurar o hostname/address](/readme_images/register_server_screenshot.png)
+
+## Queries
+Na pasta [SQL](/SQL/) encontram as queries utilizadas durante o curso de postgres
